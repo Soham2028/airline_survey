@@ -1,10 +1,10 @@
 # Airline Survey
 
-## 1.Introduction
+## Introduction
 
 Cheapseats Airlines maintains a set of survey data related to how customers feel, and multiple variables associated to their domestic flights. Cheapseats Airlines stood out as one of the larger airlines with 26k observations reported. Due to the law of large numbers, we believe that the dataset provided on which Cheapseats analysis is performed is statistically sufficient for RedPanda consultants to perform their analysis.
 
-## 2.Understanding the Data
+## Understanding the Data
 
 The initial data set contained multiple airlines data and values that proved a hindrance when performing analysis. The dataset contained various data types, including integer, factor, and character that often confused RStudio. In order to generate a dataset that is most usable, we generated the following set of assumptions.
 
@@ -16,7 +16,7 @@ The initial data set contained multiple airlines data and values that proved a h
 The survey data was initially analyzed as a whole data set. This generated a good understanding
 of the baseline for all the airlines. After a baseline was understood, the team focused on one Airline to perform the analysis over again. This was decided upon as it is easier to help one airline than the conglomerate. After the decision was agreed upon, the survey data was cleaned and a subset of data was created just for Cheapseat Airlines. The following report covers the steps team Red Panda followed from understanding the data to providing valid and usable recommendations for Cheapseat Airlines.
 
-## 3.Scope & Business Questions
+## Scope & Business Questions
 
 Scope:
 
